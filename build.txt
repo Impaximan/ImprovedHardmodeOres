@@ -1,0 +1,3 @@
+displayName = Improved Hardmode Ores
+author = Penumbral#6356
+version = 1.0

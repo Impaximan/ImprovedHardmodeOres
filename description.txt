@@ -1,0 +1,2 @@
+As you might assume, this mod improves the gear crafted with hardmode ores, including a complete rework of the 1.1 ore armor sets to make them just as interesting (if not more interesting) as their newer, more polished counterparts.
+In addition to the above feature, the mod reworks the weapons crafted with the three early hardmode ore sets, and adds summoner helmets. These changes are configurable, but you'll need to reload the mod for them to take effect for most of them.
